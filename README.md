@@ -16,6 +16,15 @@ Website Tester is a simple PHP-based dashboard for previewing multiple website p
 - CSS
 - JavaScript
 
+## Requirements
+PHP 7.4 or newer
+Local server such as XAMPP, Laragon, or a PHP-supported hosting
+Usage
+Put your website folders inside the main project directory.
+Run the project using a local PHP server.
+Open index.php in your browser.
+Search and preview your projects.
+
 ## Folder Structure
 
 ```txt
@@ -34,15 +43,6 @@ Example:
 
 example-client/
 └── index.html
-
-Requirements
-PHP 7.4 or newer
-Local server such as XAMPP, Laragon, or a PHP-supported hosting
-Usage
-Put your website folders inside the main project directory.
-Run the project using a local PHP server.
-Open index.php in your browser.
-Search and preview your projects.
 
 Notes: This project is intended for local testing and portfolio demonstration.
 
