@@ -4,6 +4,7 @@
 
 Website Tester is a simple PHP-based dashboard for previewing multiple website projects from one place. It helps web developers **review a website’s overall structure, design, and functionality before deployment, allowing potential bugs to be identified and fixed more efficiently**.
 
+## Preview
 ### Dashboard
 
 ![Website Tester Dashboard](assets/dashboard.png)
@@ -56,7 +57,7 @@ website-tester/
     └── index.html
 ```
 
-## Website Folder Structure
+## Example Website Folder Structure
 
 ```txt
 website-tester/
