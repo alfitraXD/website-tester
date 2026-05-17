@@ -43,14 +43,29 @@ The screenshots above show a customized version of Website Tester that I modifie
 4. Open `index.php` in your browser.
 5. Search and preview your website projects from the dashboard.
 
-## Folder Structure
+## Project Structure
 
 ```txt
 website-tester/
 ├── index.php
 ├── README.md
+├── assets/
+│   ├── dashboard.png
+│   └── project-preview.png
 └── example-client/
     └── index.html
+```
+
+## Website Folder Structure
+
+```txt
+website-tester/
+├── index.php
+└── your-website-folder/
+    ├── index.html
+    ├── index.php
+    ├── style.css
+    └── script.js
 ```
 
 ## How It Works
