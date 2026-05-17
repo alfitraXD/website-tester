@@ -1,4 +1,5 @@
-Website Tester is a simple PHP-based dashboard for previewing multiple website projects from one place.
+## Description
+Website Tester is a simple PHP-based dashboard for previewing multiple website projects from one place. It helps web developers review a website’s overall structure, design, and functionality before deployment, allowing potential bugs to be identified and fixed more efficiently.
 
 ## Features
 
