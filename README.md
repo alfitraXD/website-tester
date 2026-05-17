@@ -44,6 +44,18 @@ The screenshots above show a customized version of Website Tester that I modifie
 4. Open `index.php` in your browser.
 5. Search and preview your website projects from the dashboard.
 
+You can run it using PHP built-in server:
+
+```bash
+php -S localhost:8000
+```
+
+Then open:
+
+```txt
+http://localhost:8000
+```
+
 ## Project Structure
 
 ```txt
@@ -80,6 +92,10 @@ example-client/
 └── index.html
 ```
 
-## Notes
+## Limitations
 
-This project is intended for **local testing** and portfolio demonstration. It is useful for web developers who want to preview and test multiple website projects before deployment.
+- This project does not automatically detect all website bugs.
+- Testing is done manually through the preview dashboard.
+- This project must be run on a local server or PHP-supported hosting because it uses PHP to scan project folders.
+- Opening the file directly in the browser without a local server may not work properly.
+- Some websites may not display perfectly inside an iframe, depending on their configuration.
