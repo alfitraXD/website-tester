@@ -92,7 +92,7 @@ example-client/
 └── index.html
 ```
 
-## Limitations
+## Notes!
 
 - This project does not automatically detect all website bugs.
 - Testing is done manually through the preview dashboard.
