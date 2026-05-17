@@ -22,8 +22,10 @@ Local server such as XAMPP, Laragon, or a PHP-supported hosting
 Usage.
 
 ## How-To-Do
-Put your website folders inside the main project directory. Run the project using a local PHP server.
-Open index.php in your browser. Search and preview your projects.
+- Put your website folders inside the main project directory.
+- Run the project using a local PHP server.
+- Open index.php in your browser.
+- Search and preview your projects.
 
 ## Folder Structure
 
