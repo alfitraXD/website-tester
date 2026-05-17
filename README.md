@@ -19,11 +19,8 @@ Website Tester is a simple PHP-based dashboard for previewing multiple website p
 ## Requirements
 PHP 7.4 or newer
 Local server such as XAMPP, Laragon, or a PHP-supported hosting
-Usage
-Put your website folders inside the main project directory.
-Run the project using a local PHP server.
-Open index.php in your browser.
-Search and preview your projects.
+Usage. Put your website folders inside the main project directory. Run the project using a local PHP server.
+Open index.php in your browser. Search and preview your projects.
 
 ## Folder Structure
 
